@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c1ddff-d676-427a-8432-50a4fdd40c60" name="Changes" comment="Adicionando classes Curso e Mentoria">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="48c1ddff-d676-427a-8432-50a4fdd40c60" name="Changes" comment="Adicionando classes Dev e Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/abstraindo-bootcamp-dio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstraindo-bootcamp-dio/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/abstraindo-bootcamp-dio/br/com/dio/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstraindo-bootcamp-dio/br/com/dio/desafio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/abstraindo-bootcamp-dio/br/com/dio/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstraindo-bootcamp-dio/br/com/dio/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667675621934</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adicionando classes Dev e Bootcamp">
+      <created>1667734311101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667734311101</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +128,7 @@
     <MESSAGE value="alterando diretório gitignore" />
     <MESSAGE value="Adicionado README" />
     <MESSAGE value="Adicionando classes Curso e Mentoria" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando classes Curso e Mentoria" />
+    <MESSAGE value="Adicionando classes Dev e Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando classes Dev e Bootcamp" />
   </component>
 </project>
